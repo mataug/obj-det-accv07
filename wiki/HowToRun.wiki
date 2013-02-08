@@ -1,4 +1,4 @@
-#summary One-sentence summary of this page.
+#summary Describe how to setup and run the source code
 
 = Introduction =
 
