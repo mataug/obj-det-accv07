@@ -20,14 +20,14 @@ In practice, it is difficult to cut an object model into appropriate pieces, so 
 
 [http://farm9.staticflickr.com/8229/8452725225_23e017bc72_z.jpg]
 
-Figure 2. Sample grid points for Shape Context (See Ref 2) feature extraction (only for points 1,6,7). We also extract a local mask for each point, as shown in the right figure.
+Figure 2. Sample grid points for Shape Context (See Ref 2) feature extraction (only shown for points 1,6,7). We also extract a local mask for each point, as shown in the right figure.
 
-In our accv2007 paper, we used shape context as point feature. Actually, in this voting frame work, any robust feature can be used.
+*In our accv2007 paper, we used shape context as point feature. Actually, in this voting framework, any robust feature can be used.*
 
 2 additional bullets I want to address here.
 
  * We make use of object model mask to help alleviating feature distortion from background clutter.
- * We use radius/angular blur to tolerate local deformation.
+ * We use radial/angular blur to tolerate local deformation.
 
 [http://farm9.staticflickr.com/8366/8453817270_718c65c5a2_b.jpg]
 
