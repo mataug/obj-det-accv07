@@ -86,6 +86,8 @@ Please check a fullsize image at: [http://farm9.staticflickr.com/8369/8452724743
 
 = References =
 
-1. Pedro F. Felzenszwalb and Daniel P. Huttenlocher, "Pictorial Structures for Object Recognition," International Journal of Computer Vision[J], vol. 61, pp. 55-79, 2005.
+== 1 ==
+Pedro F. Felzenszwalb and Daniel P. Huttenlocher, "Pictorial Structures for Object Recognition," International Journal of Computer Vision[J], vol. 61, pp. 55-79, 2005.
 
-2. http://www.eecs.berkeley.edu/Research/Projects/CS/vision/shape/sc_digits.html]
+== 2 ==
+http://www.eecs.berkeley.edu/Research/Projects/CS/vision/shape/sc_digits.html]
