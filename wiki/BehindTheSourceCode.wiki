@@ -4,7 +4,7 @@
 
 How an object is visually defined leads to how it is percepted. If objects were defined by colors, then simple color matching will suffice. Unfortunately, in real world, object recognition is much more complicated.
 
-In this work, an object is defined as a set of visual words which have loose mutual geometrical relationship. This definition is a simplified version of Pictorial Structure (see [#1]), in a sense that we use a tree structure of depth 1.
+In this work, an object is defined as a set of visual words which have loose mutual geometrical relationship. This definition is a simplified version of Pictorial Structure (see [#1 Ref 1]), in a sense that we use a tree structure of depth 1.
 
 We will go through an apple detection example and explain the intuition on the go.
 
@@ -20,7 +20,7 @@ In practice, it is difficult to cut an object model into appropriate pieces, so 
 
 [http://farm9.staticflickr.com/8229/8452725225_23e017bc72_z.jpg]
 
-Figure 2. Sample grid points for Shape Context (See [#2]) feature extraction (only shown for points 1,6,7). We also extract a local mask for each point, as shown in the right figure.
+Figure 2. Sample grid points for Shape Context (See [#2 Ref 2]) feature extraction (only shown for points 1,6,7). We also extract a local mask for each point, as shown in the right figure.
 
 *In our accv2007 paper, we used shape context as point feature. Actually, in this voting framework, any robust feature can be used.*
 
