@@ -23,7 +23,7 @@ Unzip image files to $SOURCE_CODE$/data/images/.
 
 Unzip segbench.tar.gz to $SOURCE_CODE$/.
 
-== 3. Add to Matlab path list ==
+== 3. Add project source folder to Matlab searching path list ==
 
 The 'startup.m' script is meant to add whole source directories (including sub-directories) to Matlab path list.
 
@@ -31,6 +31,13 @@ On Linux, if you start Matlab after you change working directory to $SOURCE_CODE
 
 On Windows, 'startup.m' needs to be manually invoked.
 
+== 4. Build mex files ==
+
+Go to $SOURCE_CODE$/mex, and run the following script line to generate all native files.
+
+{{{
+>>mex_compile
+}}}
 
 == 4. Run demos ==
 
