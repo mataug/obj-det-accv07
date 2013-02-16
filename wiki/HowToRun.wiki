@@ -17,7 +17,7 @@ Let's denote the root folder of our source code as $SOURCE_CODE$.
 == 2. Download image data and pb edge detector ==
 Our test images can be download from here: [http://www.cis.upenn.edu/~jshi/ped_html/]
 
-One of our edge detection relies on pb edge detector. Each download it from our Downloads page or from here: [http://www.eecs.berkeley.edu/Research/Projects/CS/vision/grouping/segbench/]
+One of our edge detection relies on pb edge detector. You can download it from our Downloads page [http://obj-det-accv07.googlecode.com/files/segbench.tar.gz] or from here: [http://www.eecs.berkeley.edu/Research/Projects/CS/vision/grouping/segbench/  segbench.tar.gz]
 
 Unzip image files to $SOURCE_CODE$/data/images/.
 
